@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>\
+<Awning>\
+    <Description type="retractable" mechanism="motorized">\
+        <Brand>SunShade</Brand>\
+        <ModelName>SunShade Pro 3</ModelName>\
+    </Description>\
+    <Dimensions unit="meters">\
+        <Length>3.5</Length>\
+        <Width>2.5</Width>\
+        <Height>0.15</Height>\
+    </Dimensions>\
+    <Model>3</Model>\
+    <Fabric material="polyester" pattern="striped">\
+        <Color>\
+            <Red>255</Red>\
+            <Green>0</Green>\
+            <Blue>0</Blue>\
+            <Alpha>255</Alpha>\
+        </Color>\
+    </Fabric>\
+    <User>\
+        <Name>John Doe</Name>\
+        <Location>123 Sun Street, Sunshine City</Location>\
+    </User>\
+</Awning>\
+}
